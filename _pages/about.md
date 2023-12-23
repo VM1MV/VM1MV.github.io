@@ -23,8 +23,9 @@ My research interest include software engineering, services computing, and edge 
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our research was accepted to the flagship software engineering conference SANER2023.
 - *2023.12*: &nbsp;🎉🎉 Our Low-Code Platform achieve Silver Award in the 9th China International "Internet Plus" Innovation and Entrepreneurship Competition for College Students. 
-- *2023.11*: &nbsp;🎉🎉 Our Research achieve the Distinguished Paper Award in ICSOC 2023. 
+- *2023.11*: &nbsp;🎉🎉 Our research achieve the Distinguished Paper Award in ICSOC 2023. 
 
 # 📝 Publications 
 
@@ -40,11 +41,25 @@ My research interest include software engineering, services computing, and edge 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **[SANER'23]**[Code Reviewer Recommendation Based on a Hypergraph with Multiplex Relationships](), Yu Qiao, Jian Wang, Can Cheng, Wei Tang, Peng Liang, *Yuqi Zhao* and Bing Li
+
+- **[ICSOC'23]**[A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing](https://doi.org/10.1007/978-3-031-48424-7_10), *Yuqi Zhao*, Jian Wang, Bing Li
+
+- **[ICWS'23]**[A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling.](https://doi.org/10.1109/ICWS60048.2023.00049), *Yuqi Zhao*, Delun Jiang, Bing Li, Lei Fu, Jian Wang, Duantengchuan Li
+
+- **[KBS'22]**[Integrating deep reinforcement learning with pointer networks for service request scheduling in edge computing.](https://doi.org/10.1016/j.knosys.2022.109983), *Yuqi Zhao*, Bing Li, Jian Wang, Delun Jiang, Duantengchuan Li
+
+- **[ICWS'21]**[Microservice Pre-Deployment Based on Mobility Prediction and Service Composition in Edge.](https://doi.org/10.1109/ICWS53863.2021.00078), Jiale Deng, Bing Li, Jian Wang, *Yuqi Zhao*
+
+- **[ICWS'20]**[Integrating EMD with Multivariate LSTM for Time Series QoS Prediction.](https://doi.org/10.1109/ICWS49710.2020.00015), Xiuqing Chen, Bing Li, Jian Wang, *Yuqi Zhao*, Yiming Xiong
+
+
+- **[JCST'17]**[Developer Role Evolution in Open Source Software Ecosystem: An Explanatory Study on GNOME.](https://doi.org/10.1007/s11390-017-1728-9), Can Cheng, Bing Li, Zengyang Li, *Yuqi Zhao*, Feng-Ling Liao:
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 Our Low-Code Platform achieve Silver Award in the 9th China International "Internet Plus" Innovation and Entrepreneurship Competition for College Students. 
+- *2023.11*: &nbsp;🎉🎉 Our research achieve the Distinguished Paper Award in ICSOC 2023. 
 
 # 📖 Educations
 - *2018.09 -- 2023.12 (now)*, Wuhan University (WHU), *Ph.D student* in Software Engineering (SE). 
