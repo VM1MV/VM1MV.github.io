@@ -28,7 +28,7 @@ My research interest include software engineering, services computing, and edge 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSOC 2023</div><img src='images/ICSOC-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing](https://doi.org/10.1007/978-3-031-48424-7_10)
@@ -36,7 +36,7 @@ My research interest include software engineering, services computing, and edge 
 **Yuqi Zhao**, Jian Wang, Bing Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qfstZDsAAAAJ&citation_for_view=qfstZDsAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='qfstZDsAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes DDQN, a deep reinforcement learning approach to online microservice deployment. Specifically, DDQN leverages the Dueling DQN (Deep Q-Network) model to generate real-time microservice deployment plans.
 </div>
 </div>
 
@@ -47,12 +47,14 @@ My research interest include software engineering, services computing, and edge 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 -- 2023.12 (now)*, Wuhan University (WHU), *Ph.D student* in Software Engineering (SE). 
+- *2015.09 -- 2018.06*, Wuhan University (WHU), *Master student* in Software Engineering (SE). 
+- *2011.09 -- 2015.06*, Wuhan University (WHU), *B.S.* in Spatial Information and Digital Technology (SIDT), World Ranking First. 
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.11*, A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing. ICSOC 2023, Roma, Italy. 
+- *2023.06*, A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling. ICWS 2023, Chicago, USA  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [HorseCoder](https://www.horsecoder.com/), China.
+- *2018.11 - 2023.12*, [HorseCoder](https://www.horsecoder.com/), China.
