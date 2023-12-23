@@ -23,7 +23,7 @@ My research interest include software engineering, services computing, and edge 
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our research was accepted to the flagship software engineering conference SANER2023.
+- *2023.12*: &nbsp;🎉🎉 Our research was accepted to the flagship software engineering conference SANER2024.
 - *2023.12*: &nbsp;🎉🎉 Our Low-Code Platform achieve Silver Award in the 9th China International "Internet Plus" Innovation and Entrepreneurship Competition for College Students. 
 - *2023.11*: &nbsp;🎉🎉 Our research achieve the Distinguished Paper Award in ICSOC 2023. 
 
@@ -41,7 +41,7 @@ My research interest include software engineering, services computing, and edge 
 </div>
 </div>
 
-- **[SANER'23]**[Code Reviewer Recommendation Based on a Hypergraph with Multiplex Relationships](), Yu Qiao, Jian Wang, Can Cheng, Wei Tang, Peng Liang, *Yuqi Zhao* and Bing Li
+- **[SANER'24]**[Code Reviewer Recommendation Based on a Hypergraph with Multiplex Relationships](), Yu Qiao, Jian Wang, Can Cheng, Wei Tang, Peng Liang, *Yuqi Zhao* and Bing Li
 
 - **[ICSOC'23]**[A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing](https://doi.org/10.1007/978-3-031-48424-7_10), *Yuqi Zhao*, Jian Wang, Bing Li
 
