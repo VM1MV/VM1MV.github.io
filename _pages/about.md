@@ -23,9 +23,9 @@ My research interest include software engineering, services computing, and edge 
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our research was accepted to the flagship software engineering conference SANER2024.
+- *2023.12*: &nbsp;🎉🎉 Our research is accepted to the flagship software engineering conference SANER2024.
 - *2023.12*: &nbsp;🎉🎉 Our Low-Code Platform achieve Silver Award in the 9th China International "Internet Plus" Innovation and Entrepreneurship Competition for College Students. 
-- *2023.11*: &nbsp;🎉🎉 Our research achieve the Distinguished Paper Award in ICSOC 2023. 
+- *2023.11*: &nbsp;🎉🎉 Our research achieves the Distinguished Paper Award in ICSOC 2023. 
 
 # 📝 Publications 
 
