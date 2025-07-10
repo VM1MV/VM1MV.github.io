@@ -20,11 +20,8 @@ redirect_from:
 **Zhixuan Wang** is a junior student majoring in Software Engineering at the School of Computer Science, Central China Normal University. He is advised by Professor Yuqi Zhao. His research interests include AI large models, large model-based multi-agent systems, service computing, and edge computing. Relevant work has been published in conferences such as **IJCNN** and **SEKE**.
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 A paper co-authored with my undergraduate student as the first author is accepted to **ISPA 2024**.  
-- *2024.06*: &nbsp;🎉🎉 Our conference paper is accepted to **Internetware 2024**.  
-- *2023.12*: &nbsp;🎉🎉 Our research is accepted to the flagship software engineering conference **SANER 2024**.  
-- *2023.12*: &nbsp;🎉🎉 Our Low-Code Platform achieves the **Silver Award** in the 9th China International "**Internet Plus**" Innovation and Entrepreneurship Competition for College Students.  
-- *2023.11*: &nbsp;🎉🎉 Our research achieves the **Distinguished Paper Award** in **ICSOC 2023**.  
+- *2025.06*: &nbsp;🎉🎉 Our conference paper is accepted to **SEKE 2025**.  
+- *2025.04*: &nbsp;🎉🎉 Our conference paper is accepted to **IJCNN 2025**.  
 
 
 # 📝 Publications 
@@ -65,19 +62,7 @@ redirect_from:
 - *2023.12*: &nbsp;🎉🎉 Our Low-Code Platform achieved the **Silver Award** in the **9th China International "Internet Plus" Innovation and Entrepreneurship Competition for College Students**.  
 - *2023.11*: &nbsp;🎉🎉 Our research achieved the **Distinguished Paper Award** in **ICSOC 2023**.  
  
- # 🎓 Teaching
-- *2024.09 - 2025.01*, **Operating Systems**, Undergraduate Course, School of Computer Science, Central China Normal University.
-
 
 # 📖 Educations
-- *2018.09 -- 2023.12*, Wuhan University (WHU), *Ph.D student* in Software Engineering (SE). 
-- *2015.09 -- 2018.06*, Wuhan University (WHU), *Master student* in Software Engineering (SE). 
-- *2011.09 -- 2015.06*, Wuhan University (WHU), *B.S.* in Spatial Information and Digital Technology (SIDT), World Ranking First. 
+- *2011.09 -- 2015.06*, Central China Normal University (CCNU), *B.S.* in Software Engineering (SE). 
 
-
-# 💬 Invited Talks
-- *2023.11*, A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing. ICSOC 2023, Roma, Italy. 
-- *2023.06*, A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling. ICWS 2023, Chicago, USA  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2018.11 - Current*, [HorseCoder](https://www.horsecoder.com/), Wuhan, China.
