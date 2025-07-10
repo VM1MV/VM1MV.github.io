@@ -26,10 +26,10 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSOC 2023</div><img src='images/IJCNN-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/IJCNN-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SAMPLE: Spatiotemporal-Aware Microservice Pre-deployment with LLMs for Edge Computing]
+[SAMPLE: Spatiotemporal-Aware Microservice Pre-deployment with LLMs for Edge Computing]()
 
 **Zhixuan Wang**, Shendong Gao, Yuqi Zhao, Xiulong Yang, Yatong Wang 
 
@@ -55,5 +55,5 @@ redirect_from:
  
 
 # 📖 Educations
-- *2011.09 -- 2015.06*, Central China Normal University (CCNU), *B.S.* in Software Engineering (SE). 
+- *2022.09 -- 2026.06*, Central China Normal University (CCNU), *B.S.* in Software Engineering (SE). 
 
