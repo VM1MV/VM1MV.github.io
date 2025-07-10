@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 **Zhixuan Wang** is a junior student majoring in Software Engineering at the School of Computer Science, Central China Normal University. He is advised by Professor Yuqi Zhao. His research interests include AI large models, large model-based multi-agent systems, service computing, and edge computing. Relevant work has been published in conferences such as **IJCNN** and **SEKE**.
+
 Once awarded **the National Encouragement Scholarship** (2024-2025), **Dangui Scholarship** (2023-2024), **the honorary title of School Merit Student** (2023-2024), and **the honorary title of School Merit Student** (2024-2025).
 
 # 🔥 News
@@ -58,6 +59,6 @@ Once awarded **the National Encouragement Scholarship** (2024-2025), **Dangui Sc
 # 📖 Educations
 - *2022.09 -- 2026.06*, Central China Normal University (CCNU), *B.S.* in Software Engineering (SE).
 
-# ☀  Student Work
+# ☀ Student Work
 - *2023.10 -- 2024.06*, Served as an intern member in the Guisheng Media Center (Network Management Department) of iHuada Network Culture Studio, responsible for reviewing and operating official website tweets.
 
