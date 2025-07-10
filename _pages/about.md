@@ -17,13 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yuqi Zhao** is a lecturer and postdoctoral researcher at the School of Computer Science, Central China Normal University. Zhao received a Ph.D. in Software Engineering from Wuhan University in December 2023, under the supervision of Professor Li Bing. Zhao's research interests include software engineering, services computing, and edge computing. Relevant work has been published in high-quality journals and conferences, such as **KBS**, **ICWS**, **ICSOC**, **TNSM**, and **JCST**.
-
-Currently, Zhao is leading two postdoctoral research projects funded by the **China Postdoctoral Science Foundation** and the **National Postdoctoral Program**, focusing on advancing software and edge computing technologies. Zhao has been recognized with several honors, including the **Distinguished Paper Award** at **ICSOC 2023** and the **Best Student Paper Award** at **ICWS 2021**. In addition, Zhao's contributions were acknowledged as one of the **3551 talents in Optics Valley** in 2022. More recently, Zhao guided students to achieve a **Silver Award** at the **Challenge Cup National Competition** and won the **Silver Award** in the **9th China International "Internet Plus" Innovation and Entrepreneurship Competition for College Students**.
-
-
-Zhao's research interest include software engineering, services computing, and edge computing. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=qfstZDsAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=qfstZDsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+**Zhixuan Wang** is a junior student majoring in Software Engineering at the School of Computer Science, Central China Normal University. He is advised by Professor Yuqi Zhao. His research interests include AI large models, large model-based multi-agent systems, service computing, and edge computing. Relevant work has been published in conferences such as **IJCNN** and **SEKE**.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 A paper co-authored with my undergraduate student as the first author is accepted to **ISPA 2024**.  
