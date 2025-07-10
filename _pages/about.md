@@ -57,10 +57,3 @@ redirect_from:
 # 📖 Educations
 - *2022.09 -- 2026.06*, Central China Normal University (CCNU), *B.S.* in Software Engineering (SE).
 
-
-# 🎉 AAA
-- wcacawfawfafafaw
-- wawf
-- wfawfawf
-- wfa
-
