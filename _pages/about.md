@@ -34,7 +34,7 @@ redirect_from:
 **Zhixuan Wang**, Shendong Gao, Yuqi Zhao, Xiulong Yang, Yatong Wang 
 
 [**Project**](https://github.com/ssea-lab/SAMPLE) <strong><span class='show_paper_citations' data='qfstZDsAAAAJ:ALROH1vI_8AC'></span></strong>
-- To tackle the impact of spatiotemporal user location dynamics on microservice pre-deployment in edge computing, and the inefficiency of manual adjustments, this paper proposes SAMPLE, a spatiotemporal-aware LLM-based method. It uses LLMs to predict future user locations, identify target microservices for edge servers under coverage constraints, and leverages heuristics to guide LLMs in generating a scoring algorithm. Modeling pre-deployment as sequential decision-making, edge servers prioritize top-scoring microservices per round, enabling autonomous adaptation to user movements and dynamic optimization for improved service quality, efficiency, and responsiveness..
+- To address spatiotemporal user dynamics and manual inefficiency in edge microservice pre-deployment. This paper proposes SAMPLE, which uses LLMs for location prediction, service identification, and heuristic-guided scoring to enable autonomous, adaptive sequential optimization.
 </div>
 </div>
 
