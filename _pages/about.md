@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 **Zhixuan Wang** is a junior student majoring in Software Engineering at the School of Computer Science, Central China Normal University. He is advised by Professor Yuqi Zhao. His research interests include AI large models, large model-based multi-agent systems, service computing, and edge computing. Relevant work has been published in conferences such as **IJCNN** and **SEKE**.
+Once awarded **the National Encouragement Scholarship** (2024-2025), **Dangui Scholarship** (2023-2024), **the honorary title of School Merit Student** (2023-2024), and **the honorary title of School Merit Student** (2024-2025).
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Our conference paper is accepted to **SEKE 2025**.  
@@ -46,14 +47,17 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2024.12*: &nbsp;🎉🎉 Recognized as **Outstanding Doctoral Dissertation** by the Wuhan Computer Software Engineering Society.  
-- *2024.12*: &nbsp;🎉🎉 Honored as **Teaching Excellence Individual** by the Undergraduate School of Central China Normal University.  
-- *2024.11*: &nbsp;🎉🎉 Our team achieved the **Silver Award** in the **14th "Challenge Cup" China College Students' Entrepreneurship Competition**.  
-- *2024.08*: &nbsp;🎉🎉 Won the **National First Prize** in the **National Computer System Capability Competition - Intelligent System Innovation Design Competition (Xiaomi Cup)**.  
-- *2023.12*: &nbsp;🎉🎉 Our Low-Code Platform achieved the **Silver Award** in the **9th China International "Internet Plus" Innovation and Entrepreneurship Competition for College Students**.  
-- *2023.11*: &nbsp;🎉🎉 Our research achieved the **Distinguished Paper Award** in **ICSOC 2023**.  
+- *2025.6*: &nbsp;🎉🎉 **First Prize** in Mobile Application Development, Central South Division of the 18th China Computer Design Competition.  
+- *2025.4*: &nbsp;🎉🎉 **Third Prize** in the Provincial Competition of the 16th Blue Bridge Cup Artificial Intelligence Team Contest.  
+- *2025.4*: &nbsp;🎉🎉 **Third Prize** in the Provincial Competition of the 16th Blue Bridge Cup C/C++ Programming Contest (College Student Group A).  
+- *2024.12*: &nbsp;🎉🎉 **First Prize** in the National College Students Mathematics Competition (Non-Mathematics Category A). 
+- *2024.4*: &nbsp;🎉🎉 **Second Prize** in the Provincial Competition of the 15th Blue Bridge Cup C/C++ Programming Contest (College Student Group A).  
+- *2023.12*: &nbsp;🎉🎉 **Third Prize** in the National College Students Mathematics Competition (Non-Mathematics Category A).  
  
 
 # 📖 Educations
 - *2022.09 -- 2026.06*, Central China Normal University (CCNU), *B.S.* in Software Engineering (SE).
+
+# ☀  Student Work
+- *2023.10 -- 2024.06*, Served as an intern member in the Guisheng Media Center (Network Management Department) of iHuada Network Culture Studio, responsible for reviewing and operating official website tweets.
 
