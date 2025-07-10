@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuqi Zhao"
+title                    : "Zhixuan Wang"
 description              : "Stay Hungry! Stay Foolish!"
-repository               : "henryzhao/henryzhao.github.io"
+repository               : "VM1MV/VM1MV.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuqi Zhao"
+  name             : "Zhixuan Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Wuhan University"
+  bio              : "Central China Normal University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yuqizhao@whu.edu.cn"
+  email            : "wangzhixuan@mails.ccnu.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Henry_Zhao5"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :    "henryzhao"
+  github           :    "VM1MV"
   google_plus      :    "zhaoyuqi54"
   keybase          :
   instagram        :
